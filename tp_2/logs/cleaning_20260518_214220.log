@@ -1,0 +1,175 @@
+2026-05-18 21:42:20,751 | INFO     | Cleaning started
+2026-05-18 21:42:20,752 | INFO     | Copying raw images for hibou_grand-duc...
+2026-05-18 21:42:20,875 | INFO     | Cleaning: hibou_grand-duc
+2026-05-18 21:42:20,878 | INFO     | Images before cleaning: 100
+2026-05-18 21:42:20,879 | INFO     | [Corruption] Verification on hibou_grand-duc…
+2026-05-18 21:42:22,158 | INFO     | [Corruption] 0 corrupted images deleted
+2026-05-18 21:42:22,158 | INFO     | [Size] Filter ≥ 200px on hibou_grand-duc…
+2026-05-18 21:42:22,178 | INFO     | [Size] 0 small sized images deleted
+2026-05-18 21:42:22,180 | INFO     | [Duplicates] analysis of hibou_grand-duc…
+2026-05-18 21:42:23,666 | INFO     | [Duplicates] 0 duplicates deleted on hibou_grand-duc
+2026-05-18 21:42:23,666 | INFO     | [Filigrane] detection on hibou_grand-duc…
+2026-05-18 21:42:23,738 | INFO     | Watermark suspected: hibou_grand-duc_0006.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0006.jpg
+2026-05-18 21:42:23,801 | INFO     | Watermark suspected: hibou_grand-duc_0012.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0012.jpg
+2026-05-18 21:42:23,836 | INFO     | Watermark suspected: hibou_grand-duc_0015.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0015.jpg
+2026-05-18 21:42:23,850 | INFO     | Watermark suspected: hibou_grand-duc_0016.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0016.jpg
+2026-05-18 21:42:23,875 | INFO     | Watermark suspected: hibou_grand-duc_0018.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0018.jpg
+2026-05-18 21:42:23,900 | INFO     | Watermark suspected: hibou_grand-duc_0020.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0020.jpg
+2026-05-18 21:42:23,916 | INFO     | Watermark suspected: hibou_grand-duc_0021.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0021.jpg
+2026-05-18 21:42:23,999 | INFO     | Watermark suspected: hibou_grand-duc_0028.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0028.jpg
+2026-05-18 21:42:24,032 | INFO     | Watermark suspected: hibou_grand-duc_0030.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0030.jpg
+2026-05-18 21:42:24,295 | INFO     | Watermark suspected: hibou_grand-duc_0049.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0049.jpg
+2026-05-18 21:42:24,503 | INFO     | Watermark suspected: hibou_grand-duc_0062.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0062.jpg
+2026-05-18 21:42:24,522 | INFO     | Watermark suspected: hibou_grand-duc_0063.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0063.jpg
+2026-05-18 21:42:24,557 | INFO     | Watermark suspected: hibou_grand-duc_0065.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0065.jpg
+2026-05-18 21:42:24,634 | INFO     | Watermark suspected: hibou_grand-duc_0070.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0070.jpg
+2026-05-18 21:42:24,650 | INFO     | Watermark suspected: hibou_grand-duc_0071.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0071.jpg
+2026-05-18 21:42:24,675 | INFO     | Watermark suspected: hibou_grand-duc_0073.jpeg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0073.jpeg
+2026-05-18 21:42:24,701 | INFO     | Watermark suspected: hibou_grand-duc_0074.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0074.jpg
+2026-05-18 21:42:24,721 | INFO     | Watermark suspected: hibou_grand-duc_0075.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0075.jpg
+2026-05-18 21:42:24,742 | INFO     | Watermark suspected: hibou_grand-duc_0076.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0076.jpg
+2026-05-18 21:42:24,759 | INFO     | Watermark suspected: hibou_grand-duc_0077.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0077.jpg
+2026-05-18 21:42:24,777 | INFO     | Watermark suspected: hibou_grand-duc_0078.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0078.jpg
+2026-05-18 21:42:24,828 | INFO     | Watermark suspected: hibou_grand-duc_0081.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0081.jpg
+2026-05-18 21:42:24,892 | INFO     | Watermark suspected: hibou_grand-duc_0085.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0085.jpg
+2026-05-18 21:42:25,029 | INFO     | Watermark suspected: hibou_grand-duc_0095.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0095.jpg
+2026-05-18 21:42:25,049 | INFO     | Watermark suspected: hibou_grand-duc_0097.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0097.jpg
+2026-05-18 21:42:25,052 | INFO     | Watermark suspected: hibou_grand-duc_0098.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0098.jpg
+2026-05-18 21:42:25,076 | INFO     | Watermark suspected: hibou_grand-duc_0100.jpg moved to ..\data\watermarks\hibou_grand-duc\hibou_grand-duc_0100.jpg
+2026-05-18 21:42:25,076 | INFO     | [Filigrane] 27 images moved to ..\data\watermarks\hibou_grand-duc
+2026-05-18 21:42:25,079 | INFO     | Images after cleaning: 73 (Deleted: 27)
+2026-05-18 21:42:33,207 | INFO     | [Revue] Grille sauvegardée ..\logs\review_hibou_grand-duc.png
+2026-05-18 21:42:33,210 | INFO     | Copying raw images for flamant_rose...
+2026-05-18 21:42:33,428 | INFO     | Cleaning: flamant_rose
+2026-05-18 21:42:33,432 | INFO     | Images before cleaning: 100
+2026-05-18 21:42:33,432 | INFO     | [Corruption] Verification on flamant_rose…
+2026-05-18 21:42:35,413 | INFO     | [Corruption] 0 corrupted images deleted
+2026-05-18 21:42:35,414 | INFO     | [Size] Filter ≥ 200px on flamant_rose…
+2026-05-18 21:42:35,421 | INFO     | A lil small (1024×183): flamant_rose_0014.jpg deleted
+2026-05-18 21:42:35,443 | INFO     | [Size] 1 small sized images deleted
+2026-05-18 21:42:35,444 | INFO     | [Duplicates] analysis of flamant_rose…
+2026-05-18 21:42:36,830 | INFO     | [Duplicates] 0 duplicates deleted on flamant_rose
+2026-05-18 21:42:36,831 | INFO     | [Filigrane] detection on flamant_rose…
+2026-05-18 21:42:37,059 | INFO     | Watermark suspected: flamant_rose_0016.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0016.jpg
+2026-05-18 21:42:37,083 | INFO     | Watermark suspected: flamant_rose_0017.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0017.jpg
+2026-05-18 21:42:37,109 | INFO     | Watermark suspected: flamant_rose_0018.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0018.jpg
+2026-05-18 21:42:37,131 | INFO     | Watermark suspected: flamant_rose_0019.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0019.jpg
+2026-05-18 21:42:37,151 | INFO     | Watermark suspected: flamant_rose_0020.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0020.jpg
+2026-05-18 21:42:37,462 | INFO     | Watermark suspected: flamant_rose_0037.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0037.jpg
+2026-05-18 21:42:37,487 | INFO     | Watermark suspected: flamant_rose_0038.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0038.jpg
+2026-05-18 21:42:37,516 | INFO     | Watermark suspected: flamant_rose_0039.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0039.jpg
+2026-05-18 21:42:37,542 | INFO     | Watermark suspected: flamant_rose_0040.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0040.jpg
+2026-05-18 21:42:37,676 | INFO     | Watermark suspected: flamant_rose_0046.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0046.jpg
+2026-05-18 21:42:37,694 | INFO     | Watermark suspected: flamant_rose_0047.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0047.jpg
+2026-05-18 21:42:37,712 | INFO     | Watermark suspected: flamant_rose_0048.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0048.jpg
+2026-05-18 21:42:37,734 | INFO     | Watermark suspected: flamant_rose_0049.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0049.jpg
+2026-05-18 21:42:37,788 | INFO     | Watermark suspected: flamant_rose_0052.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0052.jpg
+2026-05-18 21:42:37,813 | INFO     | Watermark suspected: flamant_rose_0053.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0053.jpg
+2026-05-18 21:42:37,831 | INFO     | Watermark suspected: flamant_rose_0054.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0054.jpg
+2026-05-18 21:42:37,850 | INFO     | Watermark suspected: flamant_rose_0055.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0055.jpg
+2026-05-18 21:42:37,954 | INFO     | Watermark suspected: flamant_rose_0062.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0062.jpg
+2026-05-18 21:42:38,006 | INFO     | Watermark suspected: flamant_rose_0065.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0065.jpg
+2026-05-18 21:42:38,120 | INFO     | Watermark suspected: flamant_rose_0074.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0074.jpg
+2026-05-18 21:42:38,133 | INFO     | Watermark suspected: flamant_rose_0075.jpg moved to ..\data\watermarks\flamant_rose\flamant_rose_0075.jpg
+2026-05-18 21:42:38,347 | INFO     | Watermark suspected: flamant_rose_0095.jpeg moved to ..\data\watermarks\flamant_rose\flamant_rose_0095.jpeg
+2026-05-18 21:42:38,375 | INFO     | Watermark suspected: flamant_rose_0098.jpeg moved to ..\data\watermarks\flamant_rose\flamant_rose_0098.jpeg
+2026-05-18 21:42:38,395 | INFO     | [Filigrane] 23 images moved to ..\data\watermarks\flamant_rose
+2026-05-18 21:42:38,398 | INFO     | Images after cleaning: 76 (Deleted: 24)
+2026-05-18 21:42:55,172 | INFO     | [Revue] Grille sauvegardée ..\logs\review_flamant_rose.png
+2026-05-18 21:42:55,173 | INFO     | Copying raw images for martin-pecheur...
+2026-05-18 21:42:55,375 | INFO     | Cleaning: martin-pecheur
+2026-05-18 21:42:55,380 | INFO     | Images before cleaning: 100
+2026-05-18 21:42:55,380 | INFO     | [Corruption] Verification on martin-pecheur…
+2026-05-18 21:42:56,925 | INFO     | [Corruption] 0 corrupted images deleted
+2026-05-18 21:42:56,925 | INFO     | [Size] Filter ≥ 200px on martin-pecheur…
+2026-05-18 21:42:56,960 | INFO     | [Size] 0 small sized images deleted
+2026-05-18 21:42:56,961 | INFO     | [Duplicates] analysis of martin-pecheur…
+2026-05-18 21:42:57,816 | INFO     | Duplicate: martin-pecheur_0050.jpg ≈ martin-pecheur_0049.jpg deleted
+2026-05-18 21:42:58,610 | INFO     | [Duplicates] 1 duplicates deleted on martin-pecheur
+2026-05-18 21:42:58,610 | INFO     | [Filigrane] detection on martin-pecheur…
+2026-05-18 21:42:58,665 | INFO     | Watermark suspected: martin-pecheur_0004.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0004.jpg
+2026-05-18 21:42:58,693 | INFO     | Watermark suspected: martin-pecheur_0007.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0007.jpg
+2026-05-18 21:42:58,909 | INFO     | Watermark suspected: martin-pecheur_0023.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0023.jpg
+2026-05-18 21:42:59,131 | INFO     | Watermark suspected: martin-pecheur_0039.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0039.jpg
+2026-05-18 21:42:59,254 | INFO     | Watermark suspected: martin-pecheur_0048.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0048.jpg
+2026-05-18 21:42:59,347 | INFO     | Watermark suspected: martin-pecheur_0057.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0057.jpg
+2026-05-18 21:42:59,371 | INFO     | Watermark suspected: martin-pecheur_0060.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0060.jpg
+2026-05-18 21:42:59,384 | INFO     | Watermark suspected: martin-pecheur_0061.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0061.jpg
+2026-05-18 21:42:59,531 | INFO     | Watermark suspected: martin-pecheur_0073.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0073.jpg
+2026-05-18 21:42:59,632 | INFO     | Watermark suspected: martin-pecheur_0078.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0078.jpg
+2026-05-18 21:42:59,764 | INFO     | Watermark suspected: martin-pecheur_0087.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0087.jpg
+2026-05-18 21:42:59,800 | INFO     | Watermark suspected: martin-pecheur_0090.jpg moved to ..\data\watermarks\martin-pecheur\martin-pecheur_0090.jpg
+2026-05-18 21:42:59,973 | INFO     | [Filigrane] 12 images moved to ..\data\watermarks\martin-pecheur
+2026-05-18 21:42:59,991 | INFO     | Images after cleaning: 87 (Deleted: 13)
+2026-05-18 21:43:21,775 | INFO     | [Revue] Grille sauvegardée ..\logs\review_martin-pecheur.png
+2026-05-18 21:43:21,778 | INFO     | Copying raw images for cygne_tubercule...
+2026-05-18 21:43:21,964 | INFO     | Cleaning: cygne_tubercule
+2026-05-18 21:43:21,970 | INFO     | Images before cleaning: 100
+2026-05-18 21:43:21,970 | INFO     | [Corruption] Verification on cygne_tubercule…
+2026-05-18 21:43:23,658 | INFO     | [Corruption] 0 corrupted images deleted
+2026-05-18 21:43:23,658 | INFO     | [Size] Filter ≥ 200px on cygne_tubercule…
+2026-05-18 21:43:23,682 | INFO     | [Size] 0 small sized images deleted
+2026-05-18 21:43:23,683 | INFO     | [Duplicates] analysis of cygne_tubercule…
+2026-05-18 21:43:24,786 | INFO     | Duplicate: cygne_tubercule_0098.jpg ≈ cygne_tubercule_0093.jpg deleted
+2026-05-18 21:43:24,825 | INFO     | [Duplicates] 1 duplicates deleted on cygne_tubercule
+2026-05-18 21:43:24,825 | INFO     | [Filigrane] detection on cygne_tubercule…
+2026-05-18 21:43:24,926 | INFO     | Watermark suspected: cygne_tubercule_0006.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0006.jpg
+2026-05-18 21:43:24,947 | INFO     | Watermark suspected: cygne_tubercule_0008.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0008.jpg
+2026-05-18 21:43:25,080 | INFO     | Watermark suspected: cygne_tubercule_0016.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0016.jpg
+2026-05-18 21:43:25,100 | INFO     | Watermark suspected: cygne_tubercule_0017.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0017.jpg
+2026-05-18 21:43:25,214 | INFO     | Watermark suspected: cygne_tubercule_0024.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0024.jpg
+2026-05-18 21:43:25,228 | INFO     | Watermark suspected: cygne_tubercule_0025.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0025.jpg
+2026-05-18 21:43:25,231 | INFO     | Watermark suspected: cygne_tubercule_0026.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0026.jpg
+2026-05-18 21:43:25,372 | INFO     | Watermark suspected: cygne_tubercule_0037.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0037.jpg
+2026-05-18 21:43:25,645 | INFO     | Watermark suspected: cygne_tubercule_0051.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0051.jpg
+2026-05-18 21:43:25,703 | INFO     | Watermark suspected: cygne_tubercule_0053.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0053.jpg
+2026-05-18 21:43:25,744 | INFO     | Watermark suspected: cygne_tubercule_0055.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0055.jpg
+2026-05-18 21:43:25,826 | INFO     | Watermark suspected: cygne_tubercule_0061.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0061.jpg
+2026-05-18 21:43:25,873 | INFO     | Watermark suspected: cygne_tubercule_0064.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0064.jpg
+2026-05-18 21:43:25,946 | INFO     | Watermark suspected: cygne_tubercule_0069.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0069.jpg
+2026-05-18 21:43:25,976 | INFO     | Watermark suspected: cygne_tubercule_0071.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0071.jpg
+2026-05-18 21:43:26,297 | INFO     | Watermark suspected: cygne_tubercule_0092.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0092.jpg
+2026-05-18 21:43:26,372 | INFO     | Watermark suspected: cygne_tubercule_0096.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0096.jpg
+2026-05-18 21:43:26,431 | INFO     | Watermark suspected: cygne_tubercule_0100.jpg moved to ..\data\watermarks\cygne_tubercule\cygne_tubercule_0100.jpg
+2026-05-18 21:43:26,432 | INFO     | [Filigrane] 18 images moved to ..\data\watermarks\cygne_tubercule
+2026-05-18 21:43:26,436 | INFO     | Images after cleaning: 81 (Deleted: 19)
+2026-05-18 21:43:29,991 | INFO     | [Revue] Grille sauvegardée ..\logs\review_cygne_tubercule.png
+2026-05-18 21:43:29,993 | INFO     | Copying raw images for pic_vert...
+2026-05-18 21:43:30,209 | INFO     | Cleaning: pic_vert
+2026-05-18 21:43:30,215 | INFO     | Images before cleaning: 100
+2026-05-18 21:43:30,215 | INFO     | [Corruption] Verification on pic_vert…
+2026-05-18 21:43:31,884 | INFO     | [Corruption] 0 corrupted images deleted
+2026-05-18 21:43:31,885 | INFO     | [Size] Filter ≥ 200px on pic_vert…
+2026-05-18 21:43:31,914 | INFO     | [Size] 0 small sized images deleted
+2026-05-18 21:43:31,914 | INFO     | [Duplicates] analysis of pic_vert…
+2026-05-18 21:43:32,057 | INFO     | Duplicate: pic_vert_0013.jpg ≈ pic_vert_0010.jpg deleted
+2026-05-18 21:43:32,126 | INFO     | Duplicate: pic_vert_0018.jpg ≈ pic_vert_0017.jpg deleted
+2026-05-18 21:43:33,177 | INFO     | [Duplicates] 2 duplicates deleted on pic_vert
+2026-05-18 21:43:33,179 | INFO     | [Filigrane] detection on pic_vert…
+2026-05-18 21:43:33,201 | INFO     | Watermark suspected: pic_vert_0004.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0004.jpg
+2026-05-18 21:43:33,214 | INFO     | Watermark suspected: pic_vert_0005.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0005.jpg
+2026-05-18 21:43:33,280 | INFO     | Watermark suspected: pic_vert_0008.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0008.jpg
+2026-05-18 21:43:33,381 | INFO     | Watermark suspected: pic_vert_0015.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0015.jpg
+2026-05-18 21:43:33,822 | INFO     | Watermark suspected: pic_vert_0046.jpeg moved to ..\data\watermarks\pic_vert\pic_vert_0046.jpeg
+2026-05-18 21:43:33,927 | INFO     | Watermark suspected: pic_vert_0056.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0056.jpg
+2026-05-18 21:43:33,943 | INFO     | Watermark suspected: pic_vert_0057.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0057.jpg
+2026-05-18 21:43:33,959 | INFO     | Watermark suspected: pic_vert_0058.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0058.jpg
+2026-05-18 21:43:34,016 | INFO     | Watermark suspected: pic_vert_0063.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0063.jpg
+2026-05-18 21:43:34,028 | INFO     | Watermark suspected: pic_vert_0064.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0064.jpg
+2026-05-18 21:43:34,048 | INFO     | Watermark suspected: pic_vert_0066.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0066.jpg
+2026-05-18 21:43:34,058 | INFO     | Watermark suspected: pic_vert_0067.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0067.jpg
+2026-05-18 21:43:34,072 | INFO     | Watermark suspected: pic_vert_0068.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0068.jpg
+2026-05-18 21:43:34,224 | INFO     | Watermark suspected: pic_vert_0077.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0077.jpg
+2026-05-18 21:43:34,251 | INFO     | Watermark suspected: pic_vert_0079.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0079.jpg
+2026-05-18 21:43:34,289 | INFO     | Watermark suspected: pic_vert_0081.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0081.jpg
+2026-05-18 21:43:34,321 | INFO     | Watermark suspected: pic_vert_0083.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0083.jpg
+2026-05-18 21:43:34,400 | INFO     | Watermark suspected: pic_vert_0089.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0089.jpg
+2026-05-18 21:43:34,455 | INFO     | Watermark suspected: pic_vert_0094.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0094.jpg
+2026-05-18 21:43:34,473 | INFO     | Watermark suspected: pic_vert_0095.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0095.jpg
+2026-05-18 21:43:34,515 | INFO     | Watermark suspected: pic_vert_0098.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0098.jpg
+2026-05-18 21:43:34,543 | INFO     | Watermark suspected: pic_vert_0100.jpg moved to ..\data\watermarks\pic_vert\pic_vert_0100.jpg
+2026-05-18 21:43:34,544 | INFO     | [Filigrane] 22 images moved to ..\data\watermarks\pic_vert
+2026-05-18 21:43:34,548 | INFO     | Images after cleaning: 76 (Deleted: 24)
+2026-05-18 21:43:38,283 | INFO     | [Revue] Grille sauvegardée ..\logs\review_pic_vert.png
+2026-05-18 21:43:38,284 | INFO     | Cleaning done
+2026-05-18 21:43:38,284 | INFO     | Log file: ..\logs\cleaning_20260518_214220.log

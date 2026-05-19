@@ -1,0 +1,9 @@
+2026-05-18 22:05:50,938 | INFO     | Génération du rapport statistique
+2026-05-18 22:05:51,256 | INFO     | Rapport texte sauvegardé → ..\reports\rapport_statistique.txt
+2026-05-18 22:05:51,257 | INFO     | Stats JSON sauvegardées → ..\reports\stats.json
+2026-05-18 22:05:51,258 | INFO     | Génération des visualisations
+2026-05-18 22:06:56,885 | INFO     | Figure 1 sauvegardée → ..\reports\fig1_dataset_evolution.png
+2026-05-18 22:07:03,742 | INFO     | Figure 2 sauvegardée → ..\reports\fig2_suppressions.png
+2026-05-18 22:07:05,921 | INFO     | Figure 3 sauvegardée → ..\reports\fig3_splits.png
+2026-05-18 22:07:07,936 | INFO     | Figure 4 sauvegardée → ..\reports\fig4_pipeline.png
+2026-05-18 22:07:07,936 | INFO     | Rapport complet → ..\reports

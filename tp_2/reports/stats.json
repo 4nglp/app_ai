@@ -1,0 +1,102 @@
+{
+  "hibou_grand-duc": {
+    "label": "Hibou grand-duc",
+    "raw": 100,
+    "cleaned": 81,
+    "final": 365,
+    "removed": 19,
+    "removed_pct": 19.0,
+    "reasons": {
+      "doublons": 1,
+      "taille": 1,
+      "corruption": 1,
+      "filigrane": 17
+    },
+    "splits": {
+      "train": 255,
+      "val": 55,
+      "test": 55
+    },
+    "total_dataset": 365
+  },
+  "flamant_rose": {
+    "label": "Flamant rose",
+    "raw": 100,
+    "cleaned": 90,
+    "final": 380,
+    "removed": 10,
+    "removed_pct": 10.0,
+    "reasons": {
+      "doublons": 1,
+      "taille": 1,
+      "corruption": 0,
+      "filigrane": 8
+    },
+    "splits": {
+      "train": 266,
+      "val": 57,
+      "test": 57
+    },
+    "total_dataset": 380
+  },
+  "martin-pecheur": {
+    "label": "Martin-pêcheur",
+    "raw": 100,
+    "cleaned": 88,
+    "final": 435,
+    "removed": 12,
+    "removed_pct": 12.0,
+    "reasons": {
+      "doublons": 2,
+      "taille": 1,
+      "corruption": 1,
+      "filigrane": 9
+    },
+    "splits": {
+      "train": 304,
+      "val": 65,
+      "test": 66
+    },
+    "total_dataset": 435
+  },
+  "cygne_tubercule": {
+    "label": "Cygne tuberculé",
+    "raw": 100,
+    "cleaned": 81,
+    "final": 405,
+    "removed": 19,
+    "removed_pct": 19.0,
+    "reasons": {
+      "doublons": 2,
+      "taille": 1,
+      "corruption": 1,
+      "filigrane": 15
+    },
+    "splits": {
+      "train": 284,
+      "val": 61,
+      "test": 60
+    },
+    "total_dataset": 405
+  },
+  "pic_vert": {
+    "label": "Pic vert",
+    "raw": 100,
+    "cleaned": 95,
+    "final": 380,
+    "removed": 5,
+    "removed_pct": 5.0,
+    "reasons": {
+      "doublons": 1,
+      "taille": 0,
+      "corruption": 0,
+      "filigrane": 4
+    },
+    "splits": {
+      "train": 266,
+      "val": 57,
+      "test": 57
+    },
+    "total_dataset": 380
+  }
+}
